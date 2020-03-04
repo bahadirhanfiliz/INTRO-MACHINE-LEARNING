@@ -1,4 +1,4 @@
-# INTRO-MACHINE-LEARNING
+# Introduction to Machine Learning 
 Basic Machine Learning Algorithm Implementations
 
 This repository contains several implementations about the following concepts of ML
